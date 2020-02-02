@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chahghain.woodland-energy.com/sitemap.xml
